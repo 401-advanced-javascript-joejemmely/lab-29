@@ -5,10 +5,7 @@
 ### Author: Joé Jemmely
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [Assignement 1](https://codesandbox.io/s/lab-29-1-fei5y)
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
