@@ -6,6 +6,7 @@
 
 ### Links and Resources
 * [Assignement 1](https://codesandbox.io/s/lab-29-1-fei5y)
+* [Assignement 2](https://codesandbox.io/s/lab-29-2-41snh)
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
